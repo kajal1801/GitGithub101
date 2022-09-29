@@ -8,7 +8,7 @@
 
 - Track changes in files.
 - See previous versions of individual files.
-- Work on the same project with other, without affecting their work.
+- Work on the same project with others, without affecting their work.
 
 <img src="./VCS.png"> 
 
