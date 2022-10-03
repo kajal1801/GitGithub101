@@ -4,6 +4,15 @@
 
 <br />
 
+## Table of Contents
+
+- Version Control System
+- Intro to Git
+- Git Installation
+- Git Setup
+- Git Commands
+- Fork and Pull Requests
+
 ## Version Control System(VCS)
 
 - Track changes in files.
@@ -14,7 +23,7 @@
 
 <br/>
 
-## Git
+## Intro to Git
 
 - It is actually a distributed version control system designed to handle everything from small to very large projects with speed and efficiency.(Bookish language) XD
 - Basically, Git is a tool that helps us in handling the files as explained in VCS.
@@ -37,7 +46,7 @@
 
 <br />
 
-## Using Git
+## Git Commands
 
 ### To use git you must know certain basic commands as follows:
 
